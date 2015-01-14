@@ -1,5 +1,3 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/)
-
 ##Using Gulp
 
 1. If you don't have node.js and npm installed, run `sudo apt-get install nodejs nodejs-dev npm` to install node.js and npm on your machine.
